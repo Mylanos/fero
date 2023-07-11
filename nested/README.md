@@ -1,6 +1,6 @@
 # OpenShift Console Extension Types
 
-1.  [`console.action/filter`](#consoleactionfilter)
+1.  [console.action/filter](#consoleactionfilter)
 2.  [`console.action/group`](#consoleactiongroup)
 3.  [`console.action/provider`](#consoleactionprovider)
 4.  [`console.action/resource-provider`](#consoleactionresource-provider)
