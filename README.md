@@ -1406,7 +1406,7 @@ It deletes resources from the cluster, based on the provided model, resource.<br
 | `` |  options.resource - The resource to be deleted. |
 | `` |  options.path - Appends as subpath if provided |
 | `` |  options.queryParams - The query parameters to be included in the URL. |
-| `` |  options.requestInit - The fetch init object to use. This can have request headers, method, redirect, etc. See more {@link https://microsoft.github.io/PowerBI-JavaScript/interfaces/_node_modules_typedoc_node_modules_typescript_lib_lib_dom_d_.requestinit.html } |
+| `` |  options.requestInit - The fetch init object to use. This can have request headers, method, redirect, etc. See more {@link https://microsoft.github.io/PowerBI-JavaScript/interfaces/\_node_modules_typedoc_node_modules_typescript_lib_lib_dom_d_.requestinit.html } |
 | `` |  options.json - Can control garbage collection of resources explicitly if provided else will default to model's "propagationPolicy". |
 
 
