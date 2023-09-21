@@ -1434,7 +1434,7 @@ Lists the resources as an array in the cluster, based on provided options.
 | `options` | Which are passed as key-value pairs in the map |
 | `` |  options.model - k8s model |
 | `` |  options.queryParams - The query parameters to be included in the URL and can pass label selector's as well with key "labelSelector". |
-| `` |  options.requestInit - The fetch init object to use. This can have request headers, method, redirect, etc. See more {@link https://microsoft.github.io/PowerBI-JavaScript/interfaces/_node_modules_typedoc_node_modules_typescript_lib_lib_dom_d_.requestinit.html } |
+| `` |  options.requestInit - The fetch init object to use. This can have request headers, method, redirect, etc. See more {@link https://microsoft.github.io/PowerBI-JavaScript/interfaces_node_modules_typedoc_node_modules_typescript_lib_lib_dom_d_.requestinit.html } |
 
 
 
