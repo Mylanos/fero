@@ -84,7 +84,7 @@
 
 ### Summary 
 
-ActionFilter can be used to filter an action
+ActionFilter may be used to filter an action
 
 ### Properties
 
